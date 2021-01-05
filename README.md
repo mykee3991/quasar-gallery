@@ -1,6 +1,6 @@
 # Quasar Gallery Demo (quasar-gallery)
 
-A gallery component using Quasar framework
+A gallery component using Quasar framework.
 
 ## Install the dependencies
 ```bash
